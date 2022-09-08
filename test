@@ -5,7 +5,7 @@ The celebration starts on 29 August.
 # key pair creation
 resource "aws_key_pair" "window23" {
   key_name   = "window23"
-#  public_key = "C:\Users\Welcome\Downloads"
+  public_key = "C:\Users\Welcome\Downloads"
 }
 
-
+No idea to salve the key_pair issue.....!
